@@ -2,11 +2,11 @@
 
 This is a simple bridge double dummy solver.
 
-Features:
+Features
 1. Logic for bridge playing and bidding.
 2. Simple double dummy solver.
 
-TODO:
+TODO
 1. Further improver the double dummy solver algorithms.
 2. Check for valid bidding.
 3. Add GUI.
