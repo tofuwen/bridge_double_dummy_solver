@@ -1,0 +1,80 @@
+Rubric for week 1:
+
+Category						Weight Per Point		Full Score
+Basic Preparation   			2						2
+Cleverness						1						2
+Code Submission					2						2
+Decomposition					2						2
+Documentation					2						2
+Effort							1						2
+Naming							1						2
+Overall Design					2						2
+Participation					2						2
+Presentation					2						2
+Requirement - Game Logic		3						2
+Requirement - Data Structure	2						2
+Testing - Game Logic			2						2
+Testing - Data Structure 		2						2
+
+Total Score: 52
+
+
+Rubric for week 2:
+
+Category						Weight Per Point		Full Score
+Basic Preparation   			2						2
+Cleverness						1						2
+Code Submission					2						2
+Decomposition					2						2
+Documentation					2						2
+Effort							1						2
+Naming							1						2
+Overall Design					2						2
+Participation					2						2
+Presentation					2						2
+Requirement - Bid Logic			3						2
+Requirement - Data Structure	2						2
+Testing - Bid Logic				2						2
+Testing - Data Structure 		2						2
+
+Total Score: 52
+
+
+Rubric for week 3:
+
+Category						Weight Per Point		Full Score
+Basic Preparation   			2						2
+Cleverness						1						2
+Code Submission					2						2
+Decomposition					2						2
+Documentation					2						2
+Effort							1						2
+Naming							1						2
+Overall Design					2						2
+Participation					2						2
+Presentation					2						2
+Requirement - Algorithms		3						2
+Testing - Algorithms			2						2
+
+Total Score: 44
+
+
+Rubric for week 4:
+
+Category						Weight Per Point		Full Score
+Basic Preparation   			2						2
+Cleverness						1						2
+Code Submission					2						2
+Decomposition					2						2
+Documentation					2						2
+Effort							1						2
+Naming							1						2
+Overall Design					2						2
+Participation					2						2
+Presentation					2						2
+Requirement - Algorithms		3						2
+Testing - Algorithms			2						2
+Requirement - Calculation		3						2
+Testing - Calculation			2						2
+
+Total Score: 54
